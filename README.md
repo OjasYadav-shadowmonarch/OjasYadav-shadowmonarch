@@ -1,139 +1,131 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:2e1065,75:6d28d9,100:080808&height=220&section=header&text=OJAS%20YADAV&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Developer%20%7C%20Curious%20Builder&descAlignY=60&descSize=18" alt="Ojas Yadav — AI and ML student, developer, curious builder" />
-
-<a href="https://github.com/OjasYadav-shadowmonarch">
-  <img src="https://komarev.com/ghpvc/?username=OjasYadav-shadowmonarch&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
-<a href="https://github.com/OjasYadav-shadowmonarch?tab=followers">
-  <img src="https://img.shields.io/github/followers/OjasYadav-shadowmonarch?style=flat-square&color=7c3aed&label=FOLLOWERS" alt="GitHub followers" />
-</a>
-<a href="https://github.com/OjasYadav-shadowmonarch?tab=repositories">
-  <img src="https://img.shields.io/github/stars/OjasYadav-shadowmonarch?affiliations=OWNER&style=flat-square&color=7c3aed&label=REPOSITORY+STARS" alt="Repository stars" />
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:4c1d95,80:6d28d9,100:000000&height=280&section=header&text=Ojas%20Yadav&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AIML%20Student%20%7C%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+%7C+Learning+%7C+Improving;Turning+ideas+into+working+projects;Exploring+software%2C+AI%2C+and+the+web;Code.+Learn.+Evolve.+ARISE." alt="Building, learning, improving" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2000&pause=700&color=A78BFA&center=true&vCenter=true&multiline=false&width=900&lines=%E2%96%B8%20Building.%20Breaking.%20Learning.%20Improving.;%E2%96%B8%20Turning%20problems%20into%20scalable%20solutions.;%E2%96%B8%20Bridging%20AI%2C%20ML%2C%20Web%20%26%20Cybersecurity.;%E2%96%B8%20Code%20%7C%20Learn%20%7C%20Evolve%20%7C%20ARISE." alt="Typing SVG" />
+  </a>
 </div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OjasYadav-shadowmonarch&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge&abbreviated=true" />
+  <img src="https://img.shields.io/github/followers/OjasYadav-shadowmonarch?label=FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=000000" />
+  <img src="https://img.shields.io/github/stars/OjasYadav-shadowmonarch?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=7c3aed&labelColor=000000" />
+</div>
 
-## `whoami`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+## `> neofetch --shadowmonarch`
 
 ```text
-Ojas Yadav
-AI & Machine Learning Engineering Student
-Aspiring Full-Stack Developer
-KIT's College of Engineering
+┌─[shadowmonarch@arch]─[~/profile]
+└──╼ $ neofetch
+
+OS:        Shadow Monarch OS x86_64
+Host:      KIT's College of Engineering
+Kernel:    AIML-Core v2026
+Uptime:    Forever Learning
+Packages:  Python, Java, C, SQL
+Shell:     zsh
+Resolution: Problem -> Solution
+DE:        Terminal + IDE
+WM:        Logic Flow
+Theme:     Midnight Violet [#7c3aed]
+CPU:       Analytical Thinking
+Memory:    Curiosity Driven
 ```
 
-I'm an engineering student exploring software development, AI, and modern web technologies. I learn by building practical projects, experimenting with new tools, and improving how I solve problems.
+## 💫 About Me
 
-- 🎓 Studying **Artificial Intelligence & Machine Learning**
-- 💻 Building with **Python, Flask, JavaScript, and PostgreSQL**
-- 🧩 Interested in **full-stack development, AI/ML, and UI/UX**
-- 🌱 Focused on learning through projects and consistent practice
+Building. Breaking. Learning. Improving. 🚀
 
----
+🎓 AIML Student | 💻 Developer | 🤖 AI/ML Enthusiast  
+🐍 Python • Java • C • SQL • PostgreSQL • Flask  
+🧠 Machine Learning • NLP • Data Analytics • Generative AI  
+🔐 Cybersecurity & Ethical Hacking  
 
-## Featured Projects
+I learn by building real projects and turn problems into solutions.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/OjasYadav-shadowmonarch/hostelhub-postgres">HostelHub</a></h3>
-      <p>A role-based hostel and PG discovery platform connecting students with accommodation listings.</p>
-      <p><strong>Stack:</strong> Flask · PostgreSQL · JavaScript · HTML · CSS</p>
-      <a href="https://hostelhub-postgres.onrender.com">Live Demo</a>
-    </td>
-    <td width="50%">
-      <h3>StudyPulse</h3>
-      <p>A browser-based study planner with schedules, progress tracking, and rule-based study suggestions.</p>
-      <p><strong>Focus:</strong> Planning · Productivity · Frontend development</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3><a href="https://github.com/OjasYadav-shadowmonarch/OjasYadav-Portfolio">Personal Portfolio</a></h3>
-      <p>An interactive portfolio presenting my projects, skills, and development journey.</p>
-      <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
-      <a href="https://ojasyadav-shadowmonarch.github.io/OjasYadav-Portfolio/">Visit Website</a>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
----
+## 🌐 Connect With Me
 
-## Tech Stack
+<div align="center">
+  <a href="https://bsky.app/profile/ojasyadav.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"></a>
+  <a href="https://behance.net/Ojas%20Yadav"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
+  <a href="https://x.com/OjasA1234567"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:OJAS20070210@GMAIL.Com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+## 💻 Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,flask,postgres,mysql,sqlite,mongodb,supabase,firebase,bootstrap,git,github,vscode,figma,ps,netlify&theme=dark" />
+</div>
+
+<br>
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js&theme=dark" alt="Python, C, Java, HTML, CSS, JavaScript" />
-
-### Frameworks, Databases & Tools
-<img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite,mongodb,git,github,vscode,figma&theme=dark" alt="Flask, PostgreSQL, MySQL, SQLite, MongoDB, Git, GitHub, VS Code, Figma" />
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## GitHub Overview
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OjasYadav-shadowmonarch&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=OjasYadav-shadowmonarch&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OjasYadav-shadowmonarch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&ring_color=a78bfa&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=OjasYadav-shadowmonarch&theme=tokyonight&hide_border=true&background=000000&stroke=7c3aed&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
 </div>
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjasYadav-shadowmonarch&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Most used languages" />
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OjasYadav-shadowmonarch&theme=github_dark" alt="GitHub profile contribution summary" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjasYadav-shadowmonarch&theme=tokyonight&hide_border=true&bg_color=000000&title_color=a78bfa&text_color=c9d1d9&layout=compact&langs_count=8" />
+  <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OjasYadav-shadowmonarch&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=OjasYadav-shadowmonarch&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OjasYadav-shadowmonarch&custom_title=Contribution%20Timeline&bg_color=000000&color=a78bfa&line=8b5cf6&point=f3e8ff&area=true&area_color=7c3aed&hide_border=true" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OjasYadav-shadowmonarch&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OjasYadav-shadowmonarch&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div>
 
----
-
-## Connect
+## 🔝 Top Contributed Repositories
 
 <div align="center">
-  <a href="https://linkedin.com/in/ojas-yadav-61b3042b9">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/OjasYadav-shadowmonarch">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://bsky.app/profile/ojasyadav.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
-  </a>
-  <a href="https://behance.net/Ojas%20Yadav">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="https://x.com/OjasA1234567">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:ojas20070210@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://ojasyadav-shadowmonarch.github.io/OjasYadav-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge" alt="Portfolio" />
-  </a>
+  <img src="https://github-contributor-stats.vercel.app/api?username=OjasYadav-shadowmonarch&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+## ✍️ Daily Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:2e1065,75:6d28d9,100:080808&height=110&section=footer" alt="" />
-  <sub><code>SHADOW MONARCH PROTOCOL :: LEARN • BUILD • EVOLVE • ARISE</code></sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OjasYadav-shadowmonarch/OjasYadav-shadowmonarch/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OjasYadav-shadowmonarch/OjasYadav-shadowmonarch/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OjasYadav-shadowmonarch/OjasYadav-shadowmonarch/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:4c1d95,80:6d28d9,100:000000&height=130&section=footer"/>
+</div>
+
+<div align="center">
+  <code>[SYSTEM] :: SHADOW MONARCH PROTOCOL ACTIVATED | ARISE.</code>
 </div>
