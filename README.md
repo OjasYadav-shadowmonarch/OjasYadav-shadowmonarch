@@ -96,7 +96,7 @@ I'm an **AIML student at KIT's College of Engineering** who learns by building r
 
 <h3>⚙️ Frameworks & Libraries</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" alt="Flask and Bootstrap"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
