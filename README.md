@@ -26,29 +26,6 @@ I'm an **AIML student at KIT's College of Engineering** who learns by building r
 - 💬 **Ask me about:** Python, Flask, machine learning, SQL, ethical hacking
 - ⚡ **Fun fact:** I treat every bug as a boss fight
 
-<details>
-<summary><b>💻 <code>neofetch --shadowmonarch</code></b></summary>
-
-```text
-┌─[shadowmonarch@arch]─[~/profile]
-└──╼ $ neofetch
-
-OS:          Shadow Monarch OS x86_64
-Host:        KIT's College of Engineering
-Kernel:      AIML-Core v2026
-Uptime:      Forever Learning
-Packages:    Python, Java, C, SQL
-Shell:       zsh
-Resolution:  Problem -> Solution
-DE:          Terminal + IDE
-WM:          Logic Flow
-Theme:       Midnight Violet [#7c3aed]
-CPU:         Analytical Thinking
-Memory:      Curiosity Driven
-```
-
-</details>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider">
 
 ## 🧠 Focus Areas
@@ -61,37 +38,48 @@ Memory:      Curiosity Driven
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider">
 
-## 🚀 Featured Projects
 
-> Replace the placeholders below with your best 3 to 6 projects. Recruiters read this section first.
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔹 Project Name 1</h3>
-      <p>One or two lines on what it does and the problem it solves.</p>
-      <p><b>Stack:</b> Python · Flask · PostgreSQL</p>
-      <p><a href="https://github.com/OjasYadav-shadowmonarch/REPO-NAME">Repo</a> · <a href="#">Live Demo</a></p>
+      <h3>🏠 HostelHub</h3>
+      <p>A role-based hostel and PG discovery platform that helps students find accommodation near their college. Features hostel listings, student inquiries, owner accounts, admin approval, maps, and directions.</p>
+      <p><b>Stack:</b> Python · Flask · PostgreSQL · JavaScript · HTML · CSS</p>
+      <p>
+        <a href="https://github.com/OjasYadav-shadowmonarch/hostelhub-postgres">Repository</a>
+        ·
+        <a href="https://hostelhub-postgres.onrender.com">Live Demo</a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔹 Project Name 2</h3>
-      <p>One or two lines on what it does and the problem it solves.</p>
-      <p><b>Stack:</b> Python · scikit-learn · Pandas</p>
-      <p><a href="https://github.com/OjasYadav-shadowmonarch/REPO-NAME">Repo</a> · <a href="#">Live Demo</a></p>
+      <h3>📚 StudyPulse</h3>
+      <p>A browser-based study planner designed to help students organize study schedules, track their progress, and receive rule-based suggestions for improving their study routine.</p>
+      <p><b>Stack:</b> HTML · CSS · JavaScript</p>
+      <p>
+        <a href="https://github.com/OjasYadav-shadowmonarch">GitHub Profile</a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔹 Project Name 3</h3>
-      <p>One or two lines on what it does and the problem it solves.</p>
-      <p><b>Stack:</b> JavaScript · Firebase · Netlify</p>
-      <p><a href="https://github.com/OjasYadav-shadowmonarch/REPO-NAME">Repo</a> · <a href="#">Live Demo</a></p>
+      <h3>🌐 Personal Portfolio</h3>
+      <p>An interactive developer portfolio showcasing my projects, technical skills, and learning journey, featuring cinematic visual effects, responsive layouts, and interactive project cards.</p>
+      <p><b>Stack:</b> HTML · CSS · JavaScript · GitHub Pages</p>
+      <p>
+        <a href="https://github.com/OjasYadav-shadowmonarch/OjasYadav-Portfolio">Repository</a>
+        ·
+        <a href="https://ojasyadav-shadowmonarch.github.io/OjasYadav-Portfolio/">Live Demo</a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔹 Project Name 4</h3>
-      <p>One or two lines on what it does and the problem it solves.</p>
-      <p><b>Stack:</b> Java · SQL</p>
-      <p><a href="https://github.com/OjasYadav-shadowmonarch/REPO-NAME">Repo</a> · <a href="#">Live Demo</a></p>
+      <h3>⚡ More Projects</h3>
+      <p>Exploring software development, AI, and web technologies through hands-on projects. Check out my GitHub repositories to discover more experiments, implementations, and ongoing work.</p>
+      <p><b>Focus:</b> Python · Java · C · JavaScript · AI/ML</p>
+      <p>
+        <a href="https://github.com/OjasYadav-shadowmonarch?tab=repositories">Explore All Repositories</a>
+      </p>
     </td>
   </tr>
 </table>
@@ -106,12 +94,14 @@ Memory:      Curiosity Driven
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Languages"/>
 
-**Frameworks & Libraries**
+<h3>⚙️ Frameworks & Libraries</h3>
 
-<img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" alt="Frameworks"/>
-&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" alt="Flask and Bootstrap"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
 
 **Databases & Cloud**
 
