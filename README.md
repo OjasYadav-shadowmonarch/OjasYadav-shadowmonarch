@@ -84,34 +84,42 @@ I'm an **AIML student at KIT's College of Engineering** who learns by building r
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Python, Java, C, JavaScript, HTML, CSS"/>
 
-<h3>⚙️ Frameworks & Libraries</h3>
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" alt="Flask and Bootstrap"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
+### ⚙️ Frameworks & Libraries
 
+<img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" alt="Flask and Bootstrap"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
-**Databases & Cloud**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,firebase&theme=dark" alt="Databases"/>
+### 🗄️ Databases & Cloud
 
-**Tools & Design**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,firebase&theme=dark" alt="PostgreSQL, MySQL, SQLite, MongoDB, Supabase, Firebase"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,netlify&theme=dark" alt="Tools"/>
+<br/>
+
+### 🔧 Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,netlify&theme=dark" alt="Git, GitHub, VS Code, Figma, Photoshop, Netlify"/>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider">
 
